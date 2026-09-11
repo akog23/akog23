@@ -86,20 +86,6 @@ Sou desenvolvedor Full-Stack com perfil analítico — construo aplicações web
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akog777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akog777&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" width="35%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akog777&theme=tokyonight&hide_border=true&locale=pt-br" width="49%" />
-
-</div>
-
----
 
 ### 📜 Certificados
 
