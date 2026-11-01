@@ -1,38 +1,38 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img alt="Isaac Koga — Full-stack developer & process automation" src="assets/banner-dark.png" width="100%">
+  <img alt="Isaac Koga — Desenvolvedor full-stack & automação de processos" src="assets/banner-dark.png" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://akog777.github.io"><img src="https://img.shields.io/badge/Portfolio-akog777.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://akog777.github.io"><img src="https://img.shields.io/badge/Portfólio-akog777.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/iskoga"><img src="https://img.shields.io/badge/LinkedIn-iskoga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:akog.sac@gmail.com"><img src="https://img.shields.io/badge/Email-akog.sac@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:akog.sac@gmail.com"><img src="https://img.shields.io/badge/E--mail-akog.sac@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
-### Hi, I'm Isaac 👋
+### Olá, eu sou o Isaac 👋
 
-Every company has a spreadsheet someone updates by hand every week. **I like finding that spreadsheet** — and turning it into code.
+Toda empresa tem uma planilha que alguém atualiza na mão toda semana. **Eu gosto de encontrar essa planilha** — e transformar em código.
 
-- 💼 **Tech Consulting Trainee** at **Management Solutions**, connecting business needs to technical solutions
-- ⚡ At **Huawei Brasil**, built ~10 Python & VBA automations that cut 3–4 hour routines down to **≤ 10 minutes**
-- 🎓 **Information Systems** at **Universidade Presbiteriana Mackenzie** (2024 – 2028)
-- 🌱 Currently studying cloud services, software testing and databases
-- 🗣️ Portuguese (native) · English (intermediate)
+- 💼 **Trainee em Tech Consulting** na **Management Solutions**, conectando necessidades de negócio a soluções técnicas
+- ⚡ Na **Huawei Brasil**, criei ~10 automações em Python e VBA que reduziram rotinas de 3–4 horas para **no máximo 10 minutos**
+- 🎓 **Sistemas de Informação** na **Universidade Presbiteriana Mackenzie** (2024 – 2028)
+- 🌱 Estudando agora: serviços em nuvem, teste de software e bancos de dados
+- 🗣️ Português (nativo) · Inglês (intermediário)
 
 ```python
 class Isaac:
-    role       = "Tech Consulting Trainee @ Management Solutions"
-    based_in   = "São Paulo, Brazil"
-    stack      = ["React", "Java / Spring Boot", "Python", "SQL"]
-    superpower = "turning 4-hour spreadsheets into 10-minute scripts"
-    off_hours  = "co-op games on Steam 🎮"
+    cargo       = "Trainee em Tech Consulting @ Management Solutions"
+    cidade      = "São Paulo, Brasil"
+    stack       = ["React", "Java / Spring Boot", "Python", "SQL"]
+    superpoder  = "transformar planilhas de 4 horas em scripts de 10 minutos"
+    tempo_livre = "jogos co-op no Steam 🎮"
 
-    def say_hi(self):
+    def bora_conversar(self):
         return "akog.sac@gmail.com"
 ```
 
-### 🧰 Tech stack
+### 🧰 Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
@@ -52,27 +52,27 @@ class Isaac:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-### 🚀 Featured projects
+### 🚀 Projetos em destaque
 
-| Project | What it is | Stack |
+| Projeto | O que é | Stack |
 | :-- | :-- | :-- |
-| [**MackEstágios**](https://github.com/akog777/MackEstagios) | Internship management portal — REST API with auth, job postings, applications and admin dashboard | Java · Spring Boot · JWT · Next.js |
-| [**VetCare**](https://github.com/akog777/P2_CLOUD) | Veterinary clinic system deployed on AWS, with spec, ER model and architecture decisions | AWS · S3 · SQL |
-| [**NeuroAIM**](https://github.com/akog777/NeuroAIM) | Game that supports motor rehabilitation through gamified exercises | Java · libGDX |
-| [**Pokédex iOS**](https://github.com/akog777/PokedeX) | SwiftUI app with real-time search and persisted favorites, powered by PokéAPI | Swift · SwiftUI |
+| [**MackEstágios**](https://github.com/akog777/MackEstagios) | Portal de gestão de estágios — API REST com autenticação, vagas, inscrições e painel administrativo | Java · Spring Boot · JWT · Next.js |
+| [**VetCare**](https://github.com/akog777/P2_CLOUD) | Sistema para clínica veterinária publicado na AWS, com especificação, modelo ER e decisões de arquitetura | AWS · S3 · SQL |
+| [**NeuroAIM**](https://github.com/akog777/NeuroAIM) | Jogo que apoia a reabilitação motora com exercícios gamificados | Java · libGDX |
+| [**Pokédex iOS**](https://github.com/akog777/PokedeX) | App em SwiftUI com busca em tempo real e favoritos salvos, usando a PokéAPI | Swift · SwiftUI |
 
-➡️ More projects, experience and coursework on my **[portfolio](https://akog777.github.io)**.
+➡️ Mais projetos, experiência e formação no meu **[portfólio](https://akog777.github.io)**.
 
-### 📜 Certifications
+### 📜 Certificações
 
 [AWS Cloud Architecting](https://www.credly.com/badges/ab2ec487-38b1-450a-b516-6b3d839bff94) ·
 [Cisco CCNA: Introduction to Networks](https://www.credly.com/badges/81af8c0e-0925-45c1-81f3-4c8966ddbb80) ·
 [Cisco Introduction to Cybersecurity](https://www.credly.com/badges/fa494f36-3eca-4dc1-8df8-5d2fa76daf0a) ·
 [Cisco Introduction to IoT](https://www.credly.com/badges/f5adb67d-1d38-48d6-b2ea-5e81df1816a2) ·
-Swift & iOS track (TIC em Trilhas · Mackenzie)
+Trilha Swift & iOS (TIC em Trilhas · Mackenzie)
 
 ---
 
 <p align="center">
-  <sub>🇧🇷 Também falo português — fique à vontade para me chamar no <a href="https://www.linkedin.com/in/iskoga">LinkedIn</a>.</sub>
+  <sub>💬 Tem um processo lento, um produto para tirar do papel ou uma vaga em tecnologia? <a href="https://www.linkedin.com/in/iskoga">Me chama no LinkedIn</a>.</sub>
 </p>
