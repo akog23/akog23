@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://akog777.github.io"><img src="https://img.shields.io/badge/Portfólio-akog777.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+  <a href="https://akog23.github.io"><img src="https://img.shields.io/badge/Portfólio-akog23.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/iskoga"><img src="https://img.shields.io/badge/LinkedIn-iskoga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:akog.sac@gmail.com"><img src="https://img.shields.io/badge/E--mail-akog.sac@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
@@ -56,12 +56,12 @@ class Isaac:
 
 | Projeto | O que é | Stack |
 | :-- | :-- | :-- |
-| [**MackEstágios**](https://github.com/akog777/MackEstagios) | Portal de gestão de estágios — API REST com autenticação, vagas, inscrições e painel administrativo | Java · Spring Boot · JWT · Next.js |
-| [**VetCare**](https://github.com/akog777/P2_CLOUD) | Sistema para clínica veterinária publicado na AWS, com especificação, modelo ER e decisões de arquitetura | AWS · S3 · SQL |
-| [**NeuroAIM**](https://github.com/akog777/NeuroAIM) | Jogo que apoia a reabilitação motora com exercícios gamificados | Java · libGDX |
-| [**Pokédex iOS**](https://github.com/akog777/PokedeX) | App em SwiftUI com busca em tempo real e favoritos salvos, usando a PokéAPI | Swift · SwiftUI |
+| [**MackEstágios**](https://github.com/akog23/MackEstagios) | Portal de gestão de estágios — API REST com autenticação, vagas, inscrições e painel administrativo | Java · Spring Boot · JWT · Next.js |
+| [**VetCare**](https://github.com/akog23/P2_CLOUD) | Sistema para clínica veterinária publicado na AWS, com especificação, modelo ER e decisões de arquitetura | AWS · S3 · SQL |
+| [**NeuroAIM**](https://github.com/akog23/NeuroAIM) | Jogo que apoia a reabilitação motora com exercícios gamificados | Java · libGDX |
+| [**Pokédex iOS**](https://github.com/akog23/PokedeX) | App em SwiftUI com busca em tempo real e favoritos salvos, usando a PokéAPI | Swift · SwiftUI |
 
-➡️ Mais projetos, experiência e formação no meu **[portfólio](https://akog777.github.io)**.
+➡️ Mais projetos, experiência e formação no meu **[portfólio](https://akog23.github.io)**.
 
 ### 📜 Certificações
 
